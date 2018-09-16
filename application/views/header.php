@@ -1,0 +1,1 @@
+<link rel="icon" href="<?php echo base_url(); ?>assets/images/favicon/favicon.ico" type="image/gif">
